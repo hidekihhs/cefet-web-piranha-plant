@@ -1,0 +1,26 @@
+
+			body{
+
+				background-image: url(../imagens/fundo.png);
+				margin-left: 10%;
+ 				margin-right: 10%;
+				padding: 10px 10px 10px 10px;
+ 			}	
+
+			h1{
+				color: #32CD32; 
+				font-size: 28px;
+				font-family: "Times New Roman", sans-serif; 
+				text-align: justify;
+			}
+
+			p{
+				color: #000000; 
+				font-family: "Arial", sans-serif; 
+				text-align: justify;
+			}
+
+			.italico{
+				font-style: italic;
+			}
+

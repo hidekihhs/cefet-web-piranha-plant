@@ -1,0 +1,17 @@
+
+			table {
+  				/* tira espaço entre as bordas */
+  				border-collapse: collapse;
+  				/* centraliza a tabela e define uma largura */
+  				width: 600px;
+  				margin-left: auto;
+ 				margin-right: auto;
+			}
+
+			td, th {
+ 				border: 2px solid silver;
+ 				font-family: "Arial", sans-serif;
+ 				text-align: center; 
+			}
+
+
